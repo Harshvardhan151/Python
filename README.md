@@ -11,7 +11,4 @@ I wanted a public place to:
 - Share my progress with others
 - Look back at how far I’ve come
 
-## 📂 Structure
-
-The repo will be organized into folders based on topics or milestones. Example layout:
 
