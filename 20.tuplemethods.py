@@ -7,7 +7,7 @@ temp.append("South Africa")
 print(temp)
 temp.pop(2)
 print(temp)
-temp[2] = "Nippon"
+temp[2] = "Japan"
 print(temp)
 countries = tuple(temp)
 print(countries)
@@ -16,3 +16,4 @@ print(countries)
 
 marks = (41,67,41,67,41,67)
 print(marks.count(41))
+
